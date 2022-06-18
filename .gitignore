@@ -4,3 +4,5 @@
 !*.md
 !.gitignore
 !LICENSE
+!http_server/
+!http_client/
